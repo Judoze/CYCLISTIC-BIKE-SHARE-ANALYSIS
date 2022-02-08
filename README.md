@@ -38,5 +38,35 @@ must approve your recommendations, so they must be backed up with compelling dat
 *	Lili Moreno – Director of Marketing
 
 
+## Business task
+
+To determine the differences in how both annual members and casual riders use Cyclistic bikes and to use the insights derived from this to determine best 
+marketing strategies that would convert casual riders to annual members.
+
+
+## Data Source
+
+The data used would cover rider information spanning a one-year period from January 2020 to January 2022.
+
+The data has been made available by Motivate International Inc. with [license](https://ride.divvybikes.com/data-license-agreement), and is originally stored in 
+separate CSV files organized by the different months of 
+the year [here](https://divvy-tripdata.s3.amazonaws.com/index.html)!
+
+
+## Data Processing & Analysis
+
+The total number of the rows contained in the Datasets combined is **5,698,833** knocking out spreadsheets as the tool of choice for cleaning since they are 
+limited when very large datasets are involved.
+
+For the purpose of this project, SQL(Postgresql) was used for data cleaning, processing and analysis.
+
+Click [HERE](cyclistic_data.sql)! To view processing queries.
+
+After processing and cleaning, a total of **4,668,232** rows containing complete data is ready for analysis.
+
+
+
+
+
 
 
