@@ -141,6 +141,22 @@ Annual members rides make up 55.85% of the total number of rides for the period 
 that it would be easier to convert already existing casual members to annual members than onboarding new members since they already make up almost half of the 
 year's business generated.
 
+Click [here!](https://public.tableau.com/views/CYCLISTICRIDEDATA2/PercentageRep?:language=en-GB&:display_count=n&:origin=viz_share_link) for 
+interactive dashboard.
+
 
 ![Service use by Day of the week](https://github.com/Judoze/CYCLISTIC-BIKE-SHARE-ANALYSIS/blob/main/data_viz/Service%20Use%20By%20Days%20of%20Week.png)
+
+The chart above shows that while the number of rides for annual members remain consistent and evenly spread across the different days of the week and only 
+peaking at the middle of the week, the number of rides for casual members see an approximate 90% increase in number on Saturdays and Sundays. This would lead to 
+the conclusion that majority of the annual members use the service as they commute to work or their businesses during the weekdays while casual members are 
+people who use the service more for leisure activities during the weekend.
+
+Click [here!](https://public.tableau.com/views/CYCLISTICRIDEDATA3/ServiceUseByDaysofWeek?:language=en-GB&:display_count=n&:origin=viz_share_link) for 
+interactive dashboard.
+
+
+![Ride Type Preference](https://github.com/Judoze/CYCLISTIC-BIKE-SHARE-ANALYSIS/blob/main/data_viz/Vehicle%20Type%20Preference.png)
+
+
 
