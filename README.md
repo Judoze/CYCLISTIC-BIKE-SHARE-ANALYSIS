@@ -137,7 +137,7 @@ interactive dashboard.
 
 ![Percentage Representation](https://github.com/Judoze/CYCLISTIC-BIKE-SHARE-ANALYSIS/blob/main/data_viz/Percentage%20Rep.png)
 
-Annual members rides make up 55.85% of the total number of rides for the period being analysed and Casual members make up about 44.15% which supports the theory 
+Annual members rides make up 55.85% of the total number of rides for the period being analyzed and Casual members make up about 44.15% which supports the theory 
 that it would be easier to convert already existing casual members to annual members than onboarding new members since they already make up almost half of the 
 year's business generated.
 
@@ -158,5 +158,23 @@ interactive dashboard.
 
 ![Ride Type Preference](https://github.com/Judoze/CYCLISTIC-BIKE-SHARE-ANALYSIS/blob/main/data_viz/Vehicle%20Type%20Preference.png)
 
+A breakdown of ride type preferecence by both user types shows that:
+* A majority of annual members lean towards the classic bikes with approximately 77% of the total number of rides by annual members use the classic bikes as ride 
+  type.
+* 22% prefer the Electric bikes and less than 1% prefer the docked bikes.
+* While a very negligible number of Annual members use the Docked bikes, approximately 15.2% of the total number of Casual members prefer the Docked bikes as 
+  their ride type. 
+ 
+ Click [here!](https://public.tableau.com/views/CYCLISTICRIDEDATA/VehicleTypePreference?:language=en-GB&:display_count=n&:origin=viz_share_link) for 
+interactive dashboard.
 
+
+## Recommendations
+
+* An annual membership package which would see a reduction in cost of subscription amounts for the months in the winter period to encourage more sign ups under 
+  the plan should be designed.
+* Create a promo where the cost of using docked bikes under the annual membership plan is cheaper in the long run as opposed to using it under the casual 
+  membership package. 
+* Place ad materials in places where casual riders are likely to visit during the weekends; from the bike stations, to gyms, parks, movie theaters, grocery 
+  stores, e.t.c for a more effective capturing if the intended target audience
 
