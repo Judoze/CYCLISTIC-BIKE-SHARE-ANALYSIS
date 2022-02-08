@@ -115,3 +115,20 @@ After processing and cleaning, a total of **4,668,232** rows containing complete
 |  Thursday            |   610,738              |
 
 |  Monday              |   587,506              |
+
+
+## Data Visualization
+
+The data was exported in a CSV file to Tableau for visualization and further analysis.
+
+
+![Monthly Distribution](https://github.com/Judoze/CYCLISTIC-BIKE-SHARE-ANALYSIS/blob/main/data_viz/User%20Monthly%20distribution.png)
+
+An overview of the monthly distribution of rides taken by both member types shows a significant increase in the use of the bike share services from the beginning 
+of the month of May through to the end of the month of September; **predominantly around the summer period**. Service usage drops during the winter period: 
+November to February. We can conclude that the weather plays a pivotal role in influencing user behavior regardless of subscription type.
+
+
+![Percentage Representation](https://github.com/Judoze/CYCLISTIC-BIKE-SHARE-ANALYSIS/blob/main/data_viz/Percentage%20Rep.png)
+
+Annual members rides make up 55.85% of the total number of rides for the period being analysed and Casual members make up about 44.15% which supports the theory that it would be easier to convert already existing casual members to annual members than onboarding new members since they already make up almost half of the year's business generated.
