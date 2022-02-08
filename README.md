@@ -163,7 +163,7 @@ A breakdown of ride type preferecence by both user types shows that:
   type.
 * 22% prefer the Electric bikes and less than 1% prefer the docked bikes.
 * While a very negligible number of Annual members use the Docked bikes, approximately 15.2% of the total number of Casual members prefer the Docked bikes as 
-  their ride type. 
+  their ride types. 
  
  Click [here!](https://public.tableau.com/views/CYCLISTICRIDEDATA/VehicleTypePreference?:language=en-GB&:display_count=n&:origin=viz_share_link) for 
 interactive dashboard.
@@ -176,5 +176,5 @@ interactive dashboard.
 * Create a promo where the cost of using docked bikes under the annual membership plan is cheaper in the long run as opposed to using it under the casual 
   membership package. 
 * Place ad materials in places where casual riders are likely to visit during the weekends; from the bike stations, to gyms, parks, movie theaters, grocery 
-  stores, e.t.c for a more effective capturing if the intended target audience
+  stores, etc for a more effective capturing if the intended target audience
 
