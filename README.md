@@ -10,18 +10,21 @@ driven decisions as regards marketing strategies that would be aimed at converti
 
 ## Background
 
-In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a 
-network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
-Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things 
-possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day 
-passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
+In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into 
+a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
+Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these 
+things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or 
+full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
 
 
 ## Scenario
 
-“You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s 
-future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic 
-bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives 
+“You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the 
+company’s 
+future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use 
+Cyclistic 
+bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic 
+executives 
 must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.”
 
 
@@ -128,7 +131,16 @@ An overview of the monthly distribution of rides taken by both member types show
 of the month of May through to the end of the month of September; **predominantly around the summer period**. Service usage drops during the winter period: 
 November to February. We can conclude that the weather plays a pivotal role in influencing user behavior regardless of subscription type.
 
+Click [here!](https://public.tableau.com/views/GoogleCapstone_16442871060120/UserMonthlydistribution?:language=en-GB&:display_count=n&:origin=viz_share_link) for 
+interactive dashboard.
+
 
 ![Percentage Representation](https://github.com/Judoze/CYCLISTIC-BIKE-SHARE-ANALYSIS/blob/main/data_viz/Percentage%20Rep.png)
 
-Annual members rides make up 55.85% of the total number of rides for the period being analysed and Casual members make up about 44.15% which supports the theory that it would be easier to convert already existing casual members to annual members than onboarding new members since they already make up almost half of the year's business generated.
+Annual members rides make up 55.85% of the total number of rides for the period being analysed and Casual members make up about 44.15% which supports the theory 
+that it would be easier to convert already existing casual members to annual members than onboarding new members since they already make up almost half of the 
+year's business generated.
+
+
+![Service use by Day of the week](https://github.com/Judoze/CYCLISTIC-BIKE-SHARE-ANALYSIS/blob/main/data_viz/Service%20Use%20By%20Days%20of%20Week.png)
+
