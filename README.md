@@ -65,8 +65,53 @@ Click [HERE](cyclistic_data.sql)! To view processing queries.
 After processing and cleaning, a total of **4,668,232** rows containing complete data is ready for analysis.
 
 
+### Average Ride Length by subscription type
+
+
+|  Subscription type   |   Average ride length  |
+
+|  Casual Member       |   32.48                |
+
+|  Annual Member       |   13.11                |
 
 
 
+### Average Ride Length by Day of the week
 
 
+|  Day of the week     |   Average ride length  |
+
+|  Sunday              |   27.68                |
+
+|  Monday              |   20.47                |
+
+|  Tuesday             |   18.09                |
+
+|  Wednesday           |   17.96                |
+
+|  Thursday            |   18.13                |
+
+|  Friday              |   20.67                |
+
+|  Saturday            |   26.06                |
+
+
+
+### Ride Counts by Day of the week
+
+
+|  Day of the week     |   Average ride length  |
+
+|  Saturday            |   836,461              |
+
+|  Sunday              |   723,531              |
+
+|  Friday              |   666,589              |
+
+|  Wednesday           |   627,851              |
+
+|  Tuesday             |   615,556              |
+
+|  Thursday            |   610,738              |
+
+|  Monday              |   587,506              |
